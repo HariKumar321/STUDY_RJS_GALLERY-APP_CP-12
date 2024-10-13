@@ -1,4 +1,4 @@
-In this project, let's build a **Gallery App** by applying the concepts we have learned till now.
+In this project, I build a photo switching application by applying the concepts from the MERN stack framework.
 
 ### Refer to the image below:
 
@@ -9,13 +9,10 @@ In this project, let's build a **Gallery App** by applying the concepts we have 
 <br/>
 
 ### Design Files
-
 <details>
 <summary>Click to view</summary>
-
 - [Extra Small (Size < 576px) and Small (Size >= 576px)](https://assets.ccbp.in/frontend/content/react-js/gallery-sm-output-v2.png)
 - [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px)](https://assets.ccbp.in/frontend/content/react-js/gallery-lg-output.png)
-
 </details>
 
 ### Set Up Instructions
@@ -114,14 +111,5 @@ Use these files to complete the implementation:
 
 <details>
 <summary>Font-families</summary>
-
 - Roboto
-
 </details>
-
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being imported into the tests.
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
